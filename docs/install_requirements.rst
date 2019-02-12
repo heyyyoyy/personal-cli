@@ -4,6 +4,13 @@
 Подготовка
 ----------
 
+    Клонируем репозиторий
+
+    .. code-block:: bash
+
+        $ git clone https://github.com/heyyyoyy/personal-cli.git
+        $ cd personal-cli
+
     Создаем и активируем виртуальное окружение для работы
 
     .. code-block:: bash
