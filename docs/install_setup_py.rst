@@ -32,7 +32,7 @@
 
     .. code-block:: bash
 
-        (venv)$ personal-cli init-db
+        (venv)$ personal-cli init-db data.json
     
 Пример использования
 --------------------

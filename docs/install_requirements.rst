@@ -32,7 +32,7 @@
 
     .. code-block:: bash
 
-        (venv)$ python -m personal_cli init-db
+        (venv)$ python -m personal_cli init-db data.json
     
 Пример использования
 --------------------
